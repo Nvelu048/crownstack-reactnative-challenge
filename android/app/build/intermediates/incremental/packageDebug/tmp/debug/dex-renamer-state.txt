@@ -1,0 +1,4 @@
+#Sat Aug 15 20:50:37 IST 2020
+base.0=D\:\\react_native_projects\\crownstack_code_assignment\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
